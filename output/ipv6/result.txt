@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-10 06:24:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-10 18:35:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1112,6 +1112,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
