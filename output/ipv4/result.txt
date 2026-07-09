@@ -1,20 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-09 07:01:35,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-09 20:42:20,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 央视频道,#genre#
-CCTV-1,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-6,http://182.37.41.46:8154/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
-CCTV-7,http://182.37.41.46:8154/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV-7,http://125.42.151.116:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://182.37.41.46:8154/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://123.163.114.168:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://123.163.114.168:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://182.37.41.46:8154/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
-CCTV-14,http://123.163.114.168:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 央视付费频道,#genre#
@@ -22,7 +17,6 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 卫视频道,#genre#
-广东卫视,http://123.163.114.168:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
@@ -36,12 +30,10 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
-东南卫视,http://125.42.151.116:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
-贵州卫视,http://182.37.41.46:8154/tsfile/live/0120_1.m3u8?key=txiptv
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -56,8 +48,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 
@@ -67,11 +59,11 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 港澳台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -81,10 +73,6 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 体育频道,#genre#
@@ -102,7 +90,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-金鹰卡通,http://125.42.151.116:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 游戏频道,#genre#
 
