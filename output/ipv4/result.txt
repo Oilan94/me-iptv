@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-08 22:06:05,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-09-09 07:50:06,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -19,13 +19,11 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 央视付费频道,#genre#
 
 卫视频道,#genre#
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://182.114.48.115:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
-湖北卫视,http://182.114.48.115:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -33,16 +31,12 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://182.114.48.115:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 江苏卫视,http://drive.mxmy.net:8888/udp/239.3.1.135:8028
-江苏卫视,http://182.114.48.115:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
-辽宁卫视,http://182.114.48.115:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 
 ☘️山东频道,#genre#
@@ -50,6 +44,12 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 
 港澳台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -83,8 +83,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 游戏频道,#genre#
 
 音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 经典剧场,#genre#
