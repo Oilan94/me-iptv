@@ -1,17 +1,15 @@
 🕘️更新时间,#genre#
-2026-11-01 08:43:10,http://45.192.97.170:8880/play/255.m3u8
+2026-11-02 00:35:21,http://45.192.97.170:8880/play/255.m3u8
 
 央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/255.m3u8
-CCTV-2,http://45.192.97.170:8880/play/256.m3u8
 CCTV-3,http://45.192.97.170:8880/play/257.m3u8
-CCTV-4,http://45.192.97.170:8880/play/258.m3u8
 CCTV-5,http://45.192.97.170:8880/play/259.m3u8
 CCTV-5,http://45.192.97.170:8880/play/260.m3u8
 CCTV-8,http://45.192.97.170:8880/play/263.m3u8
 CCTV-9,http://45.192.97.170:8880/play/264.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6eba369ff120b2ed6e1365d347cff21a
 CCTV-10,http://45.192.97.170:8880/play/265.m3u8
-CCTV-13,http://45.192.97.170:8880/play/268.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://45.192.97.170:8880/play/222.m3u8
 
@@ -37,10 +35,10 @@ CETV-1,http://45.192.97.170:8880/play/222.m3u8
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 
 港澳台,#genre#
@@ -59,8 +57,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 
 体育频道,#genre#
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 动画频道,#genre#
