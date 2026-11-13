@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-13 10:21:41,http://173.208.234.146/live/cctv1.m3u8
+2026-11-14 01:30:52,http://173.208.234.146/live/cctv1.m3u8
 
 央视频道,#genre#
 CCTV-1,http://173.208.234.146/live/cctv1.m3u8
@@ -10,7 +10,6 @@ CCTV-4,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts
 CCTV-6,http://45.192.97.170:8880/play/446.m3u8
 CCTV-7,http://173.208.234.146/live/cctv7.m3u8
 CCTV-11,http://45.192.97.170:8880/play/451.m3u8
-CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 央视付费频道,#genre#
 怀旧剧场,http://45.192.97.170:8880/play/474.m3u8
@@ -18,14 +17,14 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
 卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 浙江卫视,http://45.192.97.170:8880/play/542.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 湖南卫视,http://45.192.97.170:8880/play/523.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/484.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://45.192.97.170:8880/play/508.m3u8
 重庆卫视,http://45.192.97.170:8880/play/511.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -51,12 +50,6 @@ CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
-菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 港澳台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
